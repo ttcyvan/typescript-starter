@@ -1,4 +1,4 @@
-# 🐱‍👤 TypeScript Starter | 2020 Yvan tenekeu
+TypeScript Starter
 
 ### Scripts
 
